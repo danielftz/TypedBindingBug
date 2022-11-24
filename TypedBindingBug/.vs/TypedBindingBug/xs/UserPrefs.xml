@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D14A516E-418F-40E0-8532-9410F24DC9FB}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypedBindingBug/MainPage.cs">
+    <Files>
+      <File FileName="TypedBindingBug/MainPage.cs" Line="15" Column="21" />
+      <File FileName="../../../.nuget/packages/communitytoolkit.maui.markup/1.0.0-build-156.83190/readme.txt" Line="15" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TypedBindingBug" expanded="True">
+            <Node name="TypedBindingBug" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TypedBindingBug PreferredExecutionTarget="Android.default" />
+  <MultiItemStartupConfigurations />
+</Properties>
